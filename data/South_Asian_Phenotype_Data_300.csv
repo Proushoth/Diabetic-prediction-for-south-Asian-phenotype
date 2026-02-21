@@ -1,0 +1,301 @@
+Timestamp,Age: (Please provide your age in years)  ,  Gender  ,  Ethnicity  ,Currently employed?,"If yes, please mention your role",Please enter your height (cm),Please enter your weight in kg,Please enter your waist circumference in inches (Trouser hip size),Has your weight increased drastically in the past 12 months ?,How many hours do spend on a day sitting ,"Do you engage in physical activity for at least 150 minutes per week? (e.g.: Walking, Jogging, gym, sports and etc.)",How often do you consume fast food or short eats ?,How many cups of tea/coffee/soft drinks with sweet do you consume daily? ,Do you have any relative who are diagnosed with Type 2 diabetes,Are you diagnosed with high blood pressure?,Are you diagnosed with pre diabetic ?
+09/02/2026 15:53:11,28,Male,South asian,Yes,Project Manager,183.0,79.0,32,No,4–8 hours,No,twice or thrice a week,1 to 2 cups,No,No,No
+09/02/2026 15:58:17,22,Male,South asian,Yes,,185.0,62.0,30,No,4–8 hours,Yes,twice or thrice a week,1 to 2 cups,No,No,No
+09/02/2026 16:01:02,22,Male,South asian,Yes,Software Engineer ,156.0,70.0,30,No,4–8 hours,Yes,Rarely / Never,1 to 2 cups,No,No,No
+09/02/2026 16:06:32,21,Male,South asian,No,,170.0,75.0,36,No,4–8 hours,Yes,twice or thrice a week,1 to 2 cups,Yes,No,No
+09/02/2026 16:14:35,28,Female,South asian,No,,180.0,75.0,81,No,4–8 hours,Yes,twice or thrice a week,1 to 2 cups,No,No,No
+09/02/2026 16:18:00,22,Male,South asian,No,,177.0,50.0,28,No,4–8 hours,No,Daily,1 to 2 cups,No,No,No
+09/02/2026 16:21:04,20,Female,South asian,No,,5.4,37.0,28,No,4–8 hours,Yes,twice or thrice a week,1 to 2 cups,Yes,No,No
+09/02/2026 16:29:14,21,Male,South asian,No,No,164.0,70.0,32,Yes,More than 8 hours,Yes,Daily,1 to 2 cups,Yes,No,No
+09/02/2026 16:31:08,23,Male,South asian,No,,180.0,84.0,32,Yes,4–8 hours,No,twice or thrice a week,More than 3,Yes,No,No
+09/02/2026 16:32:56,28,Male,South asian,Yes,Software engineer ,178.0,58.0,29,No,More than 8 hours,Yes,twice or thrice a week,1 to 2 cups,No,No,No
+09/02/2026 16:33:59,25,Male,South asian,Yes,Software Engineer,178.0,62.0,32,No,More than 8 hours,No,twice or thrice a week,,No,No,No
+09/02/2026 16:35:25,22,Male,South asian,No,,182.0,92.0,35,No,Less than 4 hours,Yes,twice or thrice a week,More than 3,Yes,No,No
+09/02/2026 16:38:48,22,Male,South asian,No,,163.0,63.0,32,No,More than 8 hours,Yes,twice or thrice a week,,No,No,No
+09/02/2026 16:55:39,22,Male,South asian,Yes,Assistant project manager ,34.0,75.0,34,No,4–8 hours,Yes,twice or thrice a week,1 to 2 cups,No,No,No
+09/02/2026 16:58:22,22,Female,South asian,No,,167.0,60.0,34,No,4–8 hours,No,twice or thrice a week,1 to 2 cups,No,No,No
+09/02/2026 16:58:33,22,Male,South asian,No,,165.0,60.0,32,No,4–8 hours,Yes,twice or thrice a week,1 to 2 cups,Yes,No,No
+09/02/2026 17:12:49,21,Male,South asian,No,,155.0,75.0,34,Yes,4–8 hours,Yes,twice or thrice a week,1 to 2 cups,No,No,No
+09/02/2026 17:21:31,31,Female,South asian,No,,160.0,65.0,41,Yes,More than 8 hours,No,Daily,More than 3,No,Yes,Yes
+09/02/2026 17:22:34,29,Male,South asian,Yes,Marketing executive,172.0,70.0,34,No,More than 8 hours,Yes,Rarely / Never,More than 3,Yes,No,No
+09/02/2026 17:23:46,48,Male,South asian,Yes,Sales representative,167.0,84.0,39,No,Less than 4 hours,No,Daily,More than 3,Yes,Yes,Yes
+09/02/2026 17:54:16,57,Male,South asian,Yes,shop owner,75.0,167.0,38,No,4–8 hours,No,twice or thrice a week,More than 3,Yes,Yes,Yes
+09/02/2026 17:55:54,37,Female,South asian,Yes,freelance,180.0,85.0,34,No,Less than 4 hours,Yes,Daily,,No,No,No
+09/02/2026 17:57:15,27,Female,South asian,No,,154.0,55.0,38,No,4–8 hours,No,twice or thrice a week,,No,No,No
+09/02/2026 18:01:09,29,Female,South asian,Yes,Associate Consultant-QA,157.0,45.0,28,No,More than 8 hours,No,twice or thrice a week,1 to 2 cups,No,No,No
+09/02/2026 18:13:46,24,Female,South asian,No,,152.4,52.0,28,No,4–8 hours,Yes,twice or thrice a week,1 to 2 cups,Yes,No,Yes
+09/02/2026 18:15:22,22,Male,South asian,No,,172.0,50.0,28,No,Less than 4 hours,Yes,Rarely / Never,1 to 2 cups,No,No,No
+09/02/2026 18:17:42,24,Female,South asian,Yes,Executive - Human Resources ,174.0,80.0,38,No,More than 8 hours,No,Rarely / Never,1 to 2 cups,No,No,No
+10/02/2026 00:00:34,21,Male,South asian,Yes,Executive ,180.0,70.0,34,No,4–8 hours,No,Rarely / Never,,No,No,No
+10/02/2026 02:20:06,21,Male,South asian,No,Student ,6.3,80.0,36,Yes,4–8 hours,Yes,twice or thrice a week,1 to 2 cups,Yes,No,No
+10/02/2026 04:31:45,23,Male,South asian,Yes,Customer Success Executive - Product Management,185.0,80.0,34,Yes,4–8 hours,Yes,twice or thrice a week,More than 3,Yes,No,No
+10/02/2026 04:36:31,22,Male,South asian,Yes,Software developer ,170.0,78.0,36,Yes,4–8 hours,No,twice or thrice a week,1 to 2 cups,No,No,No
+10/02/2026 05:38:10,26,Male,South asian,Yes,Designer ,174.0,89.0,38,Yes,4–8 hours,Yes,twice or thrice a week,1 to 2 cups,No,No,No
+10/02/2026 13:16:15,26,Female,South asian,Yes,Management Consultant ,172.0,48.0,28,No,Less than 4 hours,No,Rarely / Never,1 to 2 cups,No,No,No
+10/02/2026 16:56:07,46,Male,South asian,Yes,Revenue cycle management ,183.0,79.0,34,No,Less than 4 hours,Yes,twice or thrice a week,1 to 2 cups,Yes,Yes,Yes
+10/02/2026 16:57:20,53,Female,South asian,Yes,Manager,165.0,68.0,38,Yes,4–8 hours,No,twice or thrice a week,More than 3,Yes,No,Yes
+11/02/2026 04:24:13,33,Male,South asian,Yes,Software Developer,171.0,81.0,36,No,More than 8 hours,Yes,twice or thrice a week,1 to 2 cups,Yes,No,No
+11/02/2026 20:53:03,40,Male,South asian,Yes,Senior Business Analyst ,5.8,75.0,35,No,4–8 hours,Yes,twice or thrice a week,1 to 2 cups,Yes,No,No
+12/02/2026 07:44:56,21,Male,South asian,Yes,Intern Software Engineer,166.0,56.0,34,Yes,4–8 hours,No,twice or thrice a week,1 to 2 cups,No,No,No
+10/02/2026 05:39:13,36,Female,South asian,Yes,Data Scientist,161.9,78.9,34,Yes,More than 8 hours,No,Daily,1 to 2 cups,No,No,Yes
+10/02/2026 19:14:37,57,Male,South asian,Yes,Clerk,168.4,68.3,29,Yes,4–8 hours,No,twice or thrice a week,1 to 2 cups,No,No,No
+11/02/2026 20:53:16,54,Male,South asian,Yes,Administrator,165.8,76.4,34,No,4–8 hours,No,twice or thrice a week,None,Yes,No,Yes
+10/02/2026 00:39:28,35,Male,South asian,Yes,Project Manager,165.6,68.2,32,No,4–8 hours,Yes,twice or thrice a week,1 to 2 cups,Yes,No,No
+11/02/2026 22:37:39,55,Female,South asian,Yes,Business Analyst,159.9,57.4,27,No,More than 8 hours,No,Daily,1 to 2 cups,Yes,Yes,No
+11/02/2026 03:39:33,37,Male,South asian,Yes,Software Engineer,174.3,70.8,30,Yes,More than 8 hours,No,Rarely / Never,1 to 2 cups,Yes,No,No
+10/02/2026 16:25:56,55,Male,South asian,Yes,Consultant,193.6,76.2,36,Yes,More than 8 hours,No,Daily,None,Yes,No,No
+11/02/2026 03:47:21,33,Female,South asian,Yes,Administrator,157.6,51.6,22,No,More than 8 hours,No,Rarely / Never,1 to 2 cups,No,No,No
+10/02/2026 18:25:10,57,Male,South asian,Yes,Software Engineer,175.9,58.0,24,No,More than 8 hours,Yes,twice or thrice a week,1 to 2 cups,Yes,No,Yes
+10/02/2026 23:12:36,59,Female,South asian,Yes,Clerk,155.0,57.5,22,Yes,4–8 hours,Yes,Daily,1 to 2 cups,Yes,No,No
+10/02/2026 09:30:13,48,Female,South asian,Yes,Clerk,169.8,46.8,20,Yes,More than 8 hours,No,Rarely / Never,1 to 2 cups,No,No,Yes
+10/02/2026 00:08:10,56,Male,South asian,Yes,Manager,171.2,90.4,41,Yes,More than 8 hours,Yes,Daily,1 to 2 cups,No,No,No
+10/02/2026 09:03:34,30,Female,South asian,Yes,Assistant Manager,162.9,50.6,23,Yes,4–8 hours,No,Rarely / Never,More than 3,Yes,No,No
+11/02/2026 19:02:09,32,Female,South asian,Yes,Software Engineer,165.8,58.5,30,No,More than 8 hours,Yes,twice or thrice a week,More than 3,Yes,Yes,No
+10/02/2026 14:37:11,51,Male,South asian,Yes,Systems Analyst,160.7,61.7,30,No,4–8 hours,No,Daily,More than 3,Yes,No,No
+11/02/2026 07:12:24,48,Female,South asian,Yes,Accountant,153.6,68.9,28,No,More than 8 hours,Yes,twice or thrice a week,1 to 2 cups,No,Yes,No
+11/02/2026 00:12:09,59,Female,South asian,Yes,Senior Executive,157.3,66.7,29,Yes,More than 8 hours,No,twice or thrice a week,1 to 2 cups,No,No,Yes
+11/02/2026 05:48:38,53,Male,South asian,Yes,Data Scientist,175.4,86.8,38,No,More than 8 hours,No,twice or thrice a week,1 to 2 cups,No,No,Yes
+10/02/2026 21:35:10,42,Male,South asian,Yes,Administrator,180.1,77.9,37,No,More than 8 hours,No,twice or thrice a week,1 to 2 cups,No,Yes,Yes
+10/02/2026 17:26:10,60,Female,South asian,Yes,Civil Engineer,163.9,54.9,24,No,4–8 hours,No,twice or thrice a week,1 to 2 cups,No,No,No
+10/02/2026 23:57:43,49,Male,South asian,Yes,Assistant Manager,155.8,60.1,25,No,4–8 hours,Yes,Rarely / Never,More than 3,No,No,Yes
+11/02/2026 07:10:45,30,Male,South asian,Yes,IT Support,176.0,77.7,39,No,4–8 hours,No,twice or thrice a week,1 to 2 cups,Yes,Yes,Yes
+10/02/2026 01:58:40,57,Male,South asian,Yes,Civil Engineer,174.9,80.8,34,No,4–8 hours,No,Rarely / Never,1 to 2 cups,Yes,No,Yes
+10/02/2026 15:47:26,53,Female,South asian,Yes,Project Manager,145.4,55.5,25,No,More than 8 hours,No,Rarely / Never,More than 3,No,Yes,No
+11/02/2026 14:04:06,40,Female,South asian,Yes,Manager,161.0,73.2,31,Yes,4–8 hours,Yes,Daily,1 to 2 cups,No,No,No
+10/02/2026 01:18:54,59,Female,South asian,Yes,Systems Analyst,152.8,74.3,33,Yes,Less than 4 hours,Yes,twice or thrice a week,None,No,No,Yes
+11/02/2026 02:10:22,32,Female,South asian,Yes,IT Support,155.8,52.9,26,Yes,More than 8 hours,No,twice or thrice a week,1 to 2 cups,No,No,No
+10/02/2026 19:34:16,42,Female,South asian,Yes,Civil Engineer,159.4,56.8,27,No,4–8 hours,No,twice or thrice a week,1 to 2 cups,No,No,No
+10/02/2026 06:40:56,50,Female,South asian,Yes,Administrator,157.9,50.9,23,No,4–8 hours,Yes,twice or thrice a week,More than 3,No,Yes,Yes
+11/02/2026 12:58:52,42,Male,South asian,Yes,Systems Analyst,165.3,71.7,33,Yes,4–8 hours,No,twice or thrice a week,1 to 2 cups,No,No,No
+10/02/2026 08:57:02,33,Male,South asian,Yes,Clerk,155.7,73.4,32,No,4–8 hours,Yes,twice or thrice a week,More than 3,No,No,No
+11/02/2026 13:51:41,60,Male,South asian,Yes,Software Engineer,170.0,72.0,32,Yes,More than 8 hours,No,Daily,More than 3,No,No,No
+10/02/2026 12:30:28,51,Male,South asian,Yes,Lecturer,169.2,79.9,32,Yes,4–8 hours,No,Daily,1 to 2 cups,No,No,No
+11/02/2026 05:08:00,46,Male,South asian,Yes,Business Analyst,175.5,62.9,29,No,Less than 4 hours,No,Daily,1 to 2 cups,No,No,Yes
+10/02/2026 12:47:23,52,Male,South asian,Yes,Software Engineer,172.4,71.2,34,Yes,More than 8 hours,No,twice or thrice a week,1 to 2 cups,Yes,Yes,Yes
+10/02/2026 19:54:20,57,Female,South asian,Yes,Banker,153.9,56.9,25,No,Less than 4 hours,No,twice or thrice a week,1 to 2 cups,Yes,No,No
+10/02/2026 03:52:14,59,Female,South asian,Yes,Marketing Executive,148.8,64.5,29,No,More than 8 hours,No,Rarely / Never,1 to 2 cups,No,No,Yes
+10/02/2026 21:15:55,45,Male,South asian,Yes,Data Scientist,164.8,71.6,34,No,Less than 4 hours,No,Rarely / Never,More than 3,No,No,Yes
+10/02/2026 20:38:10,31,Male,South asian,Yes,Senior Executive,176.1,73.1,33,No,More than 8 hours,No,Rarely / Never,More than 3,Yes,Yes,No
+11/02/2026 22:51:53,31,Male,South asian,Yes,Lecturer,156.8,41.1,21,No,More than 8 hours,No,Daily,1 to 2 cups,No,No,No
+10/02/2026 15:41:55,56,Female,South asian,Yes,Assistant Manager,149.8,58.4,25,Yes,4–8 hours,No,Daily,1 to 2 cups,No,Yes,Yes
+11/02/2026 04:38:18,56,Male,South asian,Yes,Data Scientist,177.3,66.6,30,No,4–8 hours,Yes,Rarely / Never,More than 3,Yes,Yes,Yes
+11/02/2026 18:01:36,51,Male,South asian,Yes,Consultant,181.5,75.8,34,No,More than 8 hours,Yes,twice or thrice a week,1 to 2 cups,Yes,No,Yes
+11/02/2026 06:30:43,39,Female,South asian,Yes,Civil Engineer,159.9,54.8,25,No,More than 8 hours,No,Daily,1 to 2 cups,Yes,No,No
+10/02/2026 23:08:25,37,Female,South asian,Yes,Clerk,155.7,51.7,26,Yes,Less than 4 hours,No,twice or thrice a week,1 to 2 cups,Yes,Yes,Yes
+11/02/2026 16:45:52,40,Male,South asian,Yes,Systems Analyst,160.8,62.6,26,No,Less than 4 hours,Yes,twice or thrice a week,None,No,No,No
+11/02/2026 20:49:22,53,Female,South asian,Yes,Accountant,170.3,88.4,40,Yes,4–8 hours,No,Daily,1 to 2 cups,Yes,No,Yes
+10/02/2026 02:22:01,34,Male,South asian,Yes,Project Manager,164.7,74.7,30,Yes,4–8 hours,No,Daily,1 to 2 cups,No,Yes,Yes
+10/02/2026 11:06:45,38,Female,South asian,Yes,Lecturer,172.3,64.1,28,No,4–8 hours,No,Rarely / Never,1 to 2 cups,Yes,No,No
+10/02/2026 15:02:33,57,Female,South asian,Yes,Marketing Executive,159.0,66.1,31,No,More than 8 hours,Yes,twice or thrice a week,More than 3,No,No,No
+11/02/2026 09:37:42,47,Female,South asian,Yes,Administrator,161.3,65.5,30,No,More than 8 hours,No,twice or thrice a week,1 to 2 cups,Yes,Yes,Yes
+11/02/2026 14:49:34,35,Female,South asian,Yes,Administrator,171.3,81.2,38,Yes,More than 8 hours,No,Daily,1 to 2 cups,No,No,Yes
+10/02/2026 21:53:46,56,Female,South asian,Yes,Project Manager,167.1,71.5,31,No,4–8 hours,No,twice or thrice a week,1 to 2 cups,No,Yes,Yes
+10/02/2026 12:17:33,41,Female,South asian,Yes,Project Manager,163.0,46.4,22,Yes,Less than 4 hours,No,twice or thrice a week,1 to 2 cups,No,Yes,No
+11/02/2026 17:32:32,59,Male,South asian,Yes,Software Engineer,170.8,78.5,35,No,4–8 hours,No,Daily,1 to 2 cups,No,No,No
+10/02/2026 20:57:46,52,Male,South asian,Yes,Banker,171.6,71.3,34,No,4–8 hours,Yes,twice or thrice a week,More than 3,Yes,No,Yes
+10/02/2026 10:07:27,54,Female,South asian,Yes,Senior Executive,150.3,42.5,22,No,4–8 hours,Yes,twice or thrice a week,1 to 2 cups,No,No,No
+10/02/2026 04:57:32,51,Male,South asian,Yes,Assistant Manager,181.7,65.8,30,Yes,4–8 hours,Yes,Rarely / Never,1 to 2 cups,No,Yes,No
+11/02/2026 17:02:29,56,Female,South asian,Yes,Civil Engineer,157.8,54.3,23,No,More than 8 hours,No,twice or thrice a week,1 to 2 cups,Yes,Yes,No
+11/02/2026 08:43:51,36,Female,South asian,Yes,HR Specialist,158.6,68.8,28,No,4–8 hours,Yes,Daily,More than 3,Yes,Yes,Yes
+10/02/2026 10:02:11,56,Male,South asian,Yes,Marketing Executive,170.7,68.4,31,Yes,4–8 hours,Yes,Daily,More than 3,No,No,No
+11/02/2026 00:12:55,50,Male,South asian,Yes,IT Support,162.6,65.9,28,No,More than 8 hours,Yes,Rarely / Never,More than 3,No,No,No
+10/02/2026 02:22:50,40,Male,South asian,Yes,Accountant,167.7,66.4,28,No,4–8 hours,No,twice or thrice a week,None,No,Yes,No
+10/02/2026 20:20:01,56,Female,South asian,Yes,Civil Engineer,164.1,89.2,33,No,More than 8 hours,No,twice or thrice a week,More than 3,Yes,Yes,No
+10/02/2026 04:28:31,31,Male,South asian,Yes,Lecturer,170.8,85.3,37,Yes,4–8 hours,No,Daily,1 to 2 cups,Yes,No,Yes
+11/02/2026 18:48:32,56,Female,South asian,Yes,Clerk,166.2,65.2,33,No,More than 8 hours,No,Daily,1 to 2 cups,Yes,No,Yes
+10/02/2026 19:15:58,50,Female,South asian,Yes,Lecturer,152.5,43.2,18,No,More than 8 hours,No,Daily,1 to 2 cups,Yes,No,Yes
+10/02/2026 13:08:07,40,Female,South asian,Yes,Business Analyst,164.3,68.8,28,No,4–8 hours,No,twice or thrice a week,More than 3,No,No,Yes
+11/02/2026 03:43:43,47,Female,South asian,Yes,Clerk,156.2,52.1,25,Yes,Less than 4 hours,No,Daily,More than 3,No,No,No
+10/02/2026 09:59:11,47,Male,South asian,Yes,Data Scientist,177.1,71.7,32,Yes,More than 8 hours,No,Daily,1 to 2 cups,Yes,Yes,No
+11/02/2026 19:05:25,48,Female,South asian,Yes,Assistant Manager,166.1,62.2,30,No,4–8 hours,No,twice or thrice a week,More than 3,No,No,No
+10/02/2026 19:05:52,36,Male,South asian,Yes,Civil Engineer,151.0,73.3,33,No,More than 8 hours,No,Rarely / Never,1 to 2 cups,No,No,Yes
+11/02/2026 20:17:22,42,Male,South asian,Yes,Manager,169.8,62.8,25,Yes,4–8 hours,No,Daily,1 to 2 cups,No,No,No
+11/02/2026 20:40:43,47,Male,South asian,Yes,IT Support,174.0,49.2,20,Yes,Less than 4 hours,No,twice or thrice a week,1 to 2 cups,No,No,No
+10/02/2026 23:52:50,42,Female,South asian,Yes,Administrator,159.0,65.7,30,Yes,4–8 hours,Yes,twice or thrice a week,More than 3,Yes,Yes,No
+10/02/2026 22:43:53,46,Male,South asian,Yes,Civil Engineer,187.2,78.9,32,No,4–8 hours,No,twice or thrice a week,1 to 2 cups,No,No,No
+11/02/2026 14:32:19,31,Male,South asian,Yes,Manager,168.7,48.2,22,No,4–8 hours,Yes,twice or thrice a week,More than 3,Yes,No,No
+11/02/2026 10:40:20,45,Female,South asian,Yes,Banker,156.9,59.5,29,No,More than 8 hours,No,Daily,More than 3,No,No,No
+10/02/2026 20:33:22,57,Female,South asian,Yes,IT Support,162.9,69.1,33,No,More than 8 hours,Yes,Rarely / Never,More than 3,Yes,No,Yes
+10/02/2026 13:37:03,40,Male,South asian,Yes,Administrator,178.2,80.9,35,No,More than 8 hours,Yes,twice or thrice a week,More than 3,No,No,Yes
+10/02/2026 12:37:42,57,Male,South asian,Yes,Business Analyst,167.8,70.0,31,No,4–8 hours,No,Rarely / Never,1 to 2 cups,No,No,Yes
+11/02/2026 02:44:53,56,Male,South asian,Yes,Clerk,181.0,80.4,34,Yes,More than 8 hours,Yes,Rarely / Never,None,No,No,Yes
+10/02/2026 07:59:07,58,Male,South asian,Yes,Lecturer,166.9,79.4,34,Yes,4–8 hours,No,Rarely / Never,1 to 2 cups,No,No,No
+10/02/2026 03:37:32,40,Male,South asian,Yes,Accountant,175.1,64.7,33,No,Less than 4 hours,Yes,Daily,None,No,No,No
+10/02/2026 05:03:59,34,Female,South asian,Yes,Software Engineer,165.0,55.2,23,No,More than 8 hours,No,Daily,1 to 2 cups,Yes,Yes,Yes
+11/02/2026 10:38:05,56,Female,South asian,Yes,Administrator,161.8,52.9,27,No,More than 8 hours,No,twice or thrice a week,1 to 2 cups,Yes,No,Yes
+10/02/2026 10:03:06,35,Male,South asian,Yes,Accountant,165.6,76.7,33,Yes,4–8 hours,No,Daily,1 to 2 cups,No,No,No
+10/02/2026 13:02:40,37,Female,South asian,Yes,Systems Analyst,157.8,59.7,24,No,More than 8 hours,No,twice or thrice a week,1 to 2 cups,No,Yes,No
+10/02/2026 12:26:39,30,Female,South asian,Yes,Administrator,159.2,50.1,28,Yes,4–8 hours,No,Daily,1 to 2 cups,No,Yes,No
+10/02/2026 08:39:54,47,Female,South asian,Yes,Marketing Executive,161.7,72.1,33,Yes,More than 8 hours,Yes,Rarely / Never,1 to 2 cups,No,No,Yes
+11/02/2026 13:48:36,38,Male,South asian,Yes,Consultant,165.4,60.4,26,Yes,4–8 hours,No,Daily,1 to 2 cups,No,No,Yes
+10/02/2026 16:57:08,53,Female,South asian,Yes,Manager,160.5,60.0,25,Yes,4–8 hours,Yes,Rarely / Never,1 to 2 cups,No,No,No
+10/02/2026 07:42:30,34,Male,South asian,Yes,Clerk,170.2,87.8,40,No,4–8 hours,No,Daily,1 to 2 cups,No,No,No
+10/02/2026 21:40:04,55,Female,South asian,Yes,Clerk,175.7,65.8,25,Yes,More than 8 hours,No,Daily,More than 3,Yes,No,Yes
+11/02/2026 22:33:36,35,Male,South asian,Yes,Data Scientist,180.8,102.0,43,No,4–8 hours,No,Rarely / Never,1 to 2 cups,No,No,Yes
+11/02/2026 02:55:18,52,Male,South asian,Yes,Lecturer,171.9,69.1,33,Yes,4–8 hours,No,twice or thrice a week,1 to 2 cups,No,No,Yes
+11/02/2026 15:14:06,51,Male,South asian,Yes,Lecturer,175.9,89.4,41,No,More than 8 hours,No,twice or thrice a week,1 to 2 cups,Yes,Yes,Yes
+10/02/2026 01:02:11,49,Male,South asian,Yes,Software Engineer,169.4,67.4,28,No,4–8 hours,No,twice or thrice a week,1 to 2 cups,No,No,Yes
+10/02/2026 03:22:56,31,Male,South asian,Yes,Administrator,177.0,38.9,25,Yes,4–8 hours,No,twice or thrice a week,More than 3,No,Yes,No
+10/02/2026 00:21:05,35,Female,South asian,Yes,Data Scientist,157.2,67.9,31,No,More than 8 hours,No,Daily,More than 3,No,Yes,No
+11/02/2026 15:54:30,43,Female,South asian,Yes,Software Engineer,161.8,50.9,29,No,Less than 4 hours,Yes,Rarely / Never,1 to 2 cups,No,No,No
+10/02/2026 16:35:42,38,Male,South asian,Yes,Accountant,162.0,45.3,19,No,More than 8 hours,No,twice or thrice a week,More than 3,Yes,No,Yes
+10/02/2026 00:52:38,44,Female,South asian,Yes,Administrator,145.9,60.2,31,No,4–8 hours,Yes,Daily,1 to 2 cups,No,No,No
+10/02/2026 03:56:18,50,Female,South asian,Yes,IT Support,164.7,66.1,27,Yes,4–8 hours,No,Daily,More than 3,No,No,No
+11/02/2026 10:11:06,40,Male,South asian,Yes,Data Scientist,161.7,78.8,34,Yes,4–8 hours,No,Daily,More than 3,No,No,No
+11/02/2026 19:58:16,39,Female,South asian,Yes,Assistant Manager,149.5,56.5,25,No,More than 8 hours,Yes,Rarely / Never,More than 3,Yes,No,No
+11/02/2026 06:13:13,58,Male,South asian,Yes,Project Manager,164.2,63.1,27,No,4–8 hours,Yes,Daily,1 to 2 cups,No,No,No
+11/02/2026 23:02:51,53,Male,South asian,Yes,HR Specialist,178.1,72.6,36,No,4–8 hours,No,twice or thrice a week,More than 3,Yes,No,Yes
+10/02/2026 12:16:14,47,Male,South asian,Yes,Civil Engineer,174.4,78.0,34,Yes,More than 8 hours,No,Daily,1 to 2 cups,Yes,No,Yes
+10/02/2026 07:11:34,31,Male,South asian,Yes,Administrator,169.1,59.4,30,No,More than 8 hours,No,twice or thrice a week,1 to 2 cups,No,No,No
+10/02/2026 00:02:42,43,Male,South asian,Yes,Banker,162.3,55.7,24,Yes,More than 8 hours,Yes,Daily,More than 3,No,No,No
+11/02/2026 06:53:42,32,Male,South asian,Yes,Accountant,168.6,87.2,39,No,4–8 hours,No,Rarely / Never,1 to 2 cups,No,Yes,Yes
+10/02/2026 01:03:18,59,Male,South asian,Yes,IT Support,169.9,73.7,31,No,4–8 hours,No,Daily,1 to 2 cups,No,Yes,Yes
+10/02/2026 03:21:53,37,Female,South asian,Yes,Software Engineer,156.3,60.2,32,Yes,4–8 hours,Yes,twice or thrice a week,1 to 2 cups,Yes,No,No
+10/02/2026 22:08:59,30,Male,South asian,Yes,Project Manager,172.6,88.2,35,No,4–8 hours,No,Daily,More than 3,No,No,Yes
+10/02/2026 11:59:17,36,Male,South asian,Yes,Systems Analyst,178.5,70.9,30,No,Less than 4 hours,No,twice or thrice a week,1 to 2 cups,No,Yes,No
+11/02/2026 07:27:57,43,Male,South asian,Yes,Manager,164.4,68.7,32,Yes,4–8 hours,No,twice or thrice a week,1 to 2 cups,No,No,Yes
+11/02/2026 03:25:35,60,Female,South asian,Yes,Lecturer,137.7,57.1,28,Yes,4–8 hours,No,twice or thrice a week,1 to 2 cups,No,Yes,No
+10/02/2026 16:45:20,38,Male,South asian,Yes,Systems Analyst,165.7,62.6,27,No,More than 8 hours,No,twice or thrice a week,More than 3,No,No,Yes
+10/02/2026 13:30:25,49,Male,South asian,Yes,Manager,171.2,56.6,22,No,More than 8 hours,Yes,twice or thrice a week,1 to 2 cups,Yes,No,No
+10/02/2026 01:41:36,55,Male,South asian,Yes,Banker,163.0,63.4,24,No,4–8 hours,No,twice or thrice a week,1 to 2 cups,No,No,No
+10/02/2026 01:12:51,49,Female,South asian,Yes,HR Specialist,170.4,73.0,33,No,More than 8 hours,No,Daily,1 to 2 cups,Yes,No,Yes
+11/02/2026 03:27:44,57,Female,South asian,Yes,Lecturer,143.4,48.6,19,No,4–8 hours,No,twice or thrice a week,None,Yes,Yes,Yes
+10/02/2026 18:26:34,52,Female,South asian,Yes,Business Analyst,156.3,57.4,26,Yes,More than 8 hours,No,twice or thrice a week,None,No,No,No
+10/02/2026 19:07:12,48,Male,South asian,Yes,Banker,178.8,79.1,34,Yes,More than 8 hours,No,Daily,1 to 2 cups,No,No,Yes
+10/02/2026 20:17:42,33,Female,South asian,Yes,Consultant,153.7,65.8,29,Yes,4–8 hours,No,twice or thrice a week,1 to 2 cups,No,No,No
+10/02/2026 02:31:32,31,Male,South asian,Yes,Data Scientist,171.6,60.0,26,Yes,4–8 hours,Yes,Rarely / Never,More than 3,No,Yes,No
+11/02/2026 19:27:32,55,Female,South asian,Yes,Administrator,153.3,64.3,27,No,More than 8 hours,No,Daily,More than 3,Yes,No,No
+11/02/2026 08:06:16,51,Male,South asian,Yes,Business Analyst,169.3,67.8,32,Yes,More than 8 hours,No,Daily,1 to 2 cups,No,No,Yes
+11/02/2026 05:03:54,48,Male,South asian,Yes,Administrator,174.0,84.8,38,No,4–8 hours,No,Rarely / Never,More than 3,No,No,Yes
+10/02/2026 07:31:59,39,Female,South asian,Yes,HR Specialist,162.6,69.6,34,Yes,More than 8 hours,No,Rarely / Never,More than 3,No,Yes,No
+11/02/2026 15:53:15,50,Male,South asian,Yes,Lecturer,176.6,82.8,37,No,More than 8 hours,Yes,twice or thrice a week,More than 3,No,Yes,Yes
+10/02/2026 17:10:57,35,Male,South asian,Yes,Marketing Executive,167.2,62.5,25,No,More than 8 hours,Yes,twice or thrice a week,More than 3,Yes,No,No
+10/02/2026 02:58:56,48,Male,South asian,Yes,Civil Engineer,158.4,50.3,23,No,Less than 4 hours,Yes,Rarely / Never,1 to 2 cups,Yes,Yes,No
+11/02/2026 15:01:59,30,Male,South asian,Yes,Civil Engineer,180.6,86.5,36,No,More than 8 hours,Yes,twice or thrice a week,More than 3,Yes,No,No
+10/02/2026 12:11:04,54,Female,South asian,Yes,HR Specialist,169.1,70.2,27,Yes,Less than 4 hours,Yes,twice or thrice a week,More than 3,No,Yes,No
+11/02/2026 13:18:29,39,Female,South asian,Yes,Project Manager,157.8,77.4,37,No,4–8 hours,No,twice or thrice a week,More than 3,No,No,Yes
+10/02/2026 19:15:53,41,Male,South asian,Yes,Administrator,166.8,70.7,31,Yes,4–8 hours,No,twice or thrice a week,More than 3,Yes,No,Yes
+10/02/2026 15:54:09,49,Female,South asian,Yes,Lecturer,158.6,49.0,19,Yes,More than 8 hours,No,Daily,None,Yes,No,Yes
+11/02/2026 19:35:47,54,Male,South asian,Yes,Assistant Manager,162.8,68.3,29,Yes,4–8 hours,No,Rarely / Never,None,Yes,Yes,No
+10/02/2026 23:47:12,60,Male,South asian,Yes,Administrator,173.3,95.1,43,No,More than 8 hours,No,twice or thrice a week,More than 3,Yes,Yes,Yes
+10/02/2026 17:30:03,54,Female,South asian,Yes,Accountant,144.3,48.9,24,No,4–8 hours,No,twice or thrice a week,1 to 2 cups,No,No,No
+10/02/2026 02:30:14,36,Female,South asian,Yes,Project Manager,158.7,76.8,34,No,More than 8 hours,Yes,twice or thrice a week,None,No,Yes,Yes
+11/02/2026 18:35:10,59,Male,South asian,Yes,Clerk,168.2,65.9,36,Yes,More than 8 hours,No,twice or thrice a week,More than 3,No,Yes,No
+11/02/2026 22:46:26,53,Male,South asian,Yes,Systems Analyst,183.1,94.9,40,No,More than 8 hours,Yes,Daily,More than 3,Yes,No,No
+10/02/2026 06:08:06,47,Male,South asian,Yes,Senior Executive,179.0,72.6,34,No,More than 8 hours,Yes,twice or thrice a week,More than 3,Yes,No,No
+11/02/2026 10:20:41,43,Male,South asian,Yes,Software Engineer,171.9,70.4,33,Yes,More than 8 hours,No,twice or thrice a week,1 to 2 cups,No,No,No
+10/02/2026 15:50:43,31,Male,South asian,Yes,Banker,180.0,84.0,36,Yes,More than 8 hours,No,Rarely / Never,More than 3,Yes,No,No
+10/02/2026 22:35:05,41,Male,South asian,Yes,IT Support,175.9,81.0,35,Yes,4–8 hours,No,Daily,More than 3,No,No,No
+10/02/2026 08:57:22,40,Female,South asian,Yes,Manager,155.8,55.2,26,No,4–8 hours,No,Rarely / Never,1 to 2 cups,Yes,No,No
+10/02/2026 13:47:21,44,Male,South asian,Yes,Manager,166.5,82.5,37,Yes,More than 8 hours,Yes,Rarely / Never,More than 3,No,Yes,Yes
+11/02/2026 14:50:07,31,Male,South asian,Yes,Senior Executive,171.5,63.9,29,No,More than 8 hours,No,twice or thrice a week,1 to 2 cups,Yes,No,Yes
+11/02/2026 22:45:31,54,Male,South asian,Yes,Manager,175.2,81.2,34,No,4–8 hours,No,twice or thrice a week,More than 3,No,Yes,Yes
+10/02/2026 06:39:25,30,Male,South asian,Yes,Consultant,177.6,55.4,29,No,4–8 hours,No,Rarely / Never,More than 3,No,No,No
+10/02/2026 10:01:51,52,Male,South asian,Yes,Civil Engineer,166.1,47.5,23,No,4–8 hours,Yes,twice or thrice a week,More than 3,No,Yes,No
+10/02/2026 00:44:00,31,Female,South asian,Yes,Software Engineer,153.9,46.2,21,Yes,4–8 hours,No,twice or thrice a week,More than 3,No,No,Yes
+11/02/2026 19:26:08,33,Male,South asian,Yes,Business Analyst,168.5,48.3,27,Yes,More than 8 hours,No,twice or thrice a week,1 to 2 cups,No,No,No
+11/02/2026 12:59:40,43,Female,South asian,Yes,Business Analyst,156.7,83.3,35,No,More than 8 hours,Yes,Rarely / Never,More than 3,Yes,No,Yes
+11/02/2026 01:05:18,59,Male,South asian,Yes,Systems Analyst,164.5,62.8,26,Yes,More than 8 hours,No,twice or thrice a week,More than 3,No,Yes,Yes
+10/02/2026 12:31:02,30,Male,South asian,Yes,Clerk,171.9,75.0,35,Yes,More than 8 hours,Yes,Daily,None,No,No,Yes
+11/02/2026 16:37:54,59,Male,South asian,Yes,Civil Engineer,181.3,90.7,39,No,4–8 hours,Yes,twice or thrice a week,More than 3,Yes,Yes,Yes
+11/02/2026 03:06:21,36,Male,South asian,Yes,Systems Analyst,163.8,73.1,33,No,More than 8 hours,Yes,twice or thrice a week,1 to 2 cups,Yes,No,No
+10/02/2026 23:53:18,58,Male,South asian,Yes,IT Support,172.2,93.7,39,Yes,Less than 4 hours,No,twice or thrice a week,1 to 2 cups,No,Yes,Yes
+10/02/2026 03:12:11,40,Male,South asian,Yes,Manager,169.3,69.7,29,No,More than 8 hours,Yes,twice or thrice a week,1 to 2 cups,No,No,Yes
+10/02/2026 02:06:24,40,Female,South asian,Yes,Project Manager,161.5,37.6,15,Yes,More than 8 hours,No,twice or thrice a week,1 to 2 cups,Yes,Yes,Yes
+11/02/2026 01:33:21,56,Male,South asian,Yes,Civil Engineer,170.3,83.8,37,No,More than 8 hours,Yes,twice or thrice a week,None,Yes,No,Yes
+11/02/2026 11:11:48,42,Male,South asian,Yes,Consultant,169.4,64.6,31,No,4–8 hours,No,twice or thrice a week,More than 3,No,No,No
+11/02/2026 06:51:17,42,Female,South asian,Yes,Civil Engineer,167.6,49.8,20,Yes,More than 8 hours,No,Daily,More than 3,Yes,No,Yes
+11/02/2026 01:26:38,48,Male,South asian,Yes,Consultant,162.2,71.0,32,Yes,More than 8 hours,No,twice or thrice a week,More than 3,Yes,No,Yes
+10/02/2026 01:57:13,47,Female,South asian,Yes,Banker,165.6,58.2,27,No,Less than 4 hours,Yes,Daily,1 to 2 cups,Yes,No,Yes
+11/02/2026 13:28:19,51,Female,South asian,Yes,Banker,154.0,65.2,29,No,4–8 hours,No,Daily,1 to 2 cups,Yes,Yes,Yes
+10/02/2026 12:16:44,44,Female,South asian,Yes,Assistant Manager,151.0,59.6,27,No,4–8 hours,No,Daily,More than 3,No,No,Yes
+10/02/2026 03:48:34,42,Male,South asian,Yes,Civil Engineer,162.8,55.2,25,No,4–8 hours,No,Daily,None,Yes,No,No
+11/02/2026 11:00:14,59,Female,South asian,Yes,Clerk,152.9,50.2,27,No,4–8 hours,No,Daily,More than 3,Yes,Yes,No
+10/02/2026 09:10:50,54,Female,South asian,Yes,Data Scientist,160.5,55.7,26,No,More than 8 hours,Yes,twice or thrice a week,1 to 2 cups,Yes,No,Yes
+10/02/2026 05:30:34,32,Male,South asian,Yes,Consultant,178.3,52.2,27,No,More than 8 hours,No,twice or thrice a week,1 to 2 cups,Yes,No,Yes
+10/02/2026 21:46:57,36,Male,South asian,Yes,Consultant,166.7,58.9,26,No,4–8 hours,Yes,twice or thrice a week,1 to 2 cups,No,Yes,No
+11/02/2026 15:01:23,59,Male,South asian,Yes,Project Manager,167.6,60.1,27,Yes,More than 8 hours,No,Rarely / Never,1 to 2 cups,No,Yes,No
+11/02/2026 03:11:59,47,Male,South asian,Yes,Consultant,163.2,73.9,31,Yes,More than 8 hours,No,Daily,More than 3,No,No,Yes
+10/02/2026 23:31:14,41,Female,South asian,Yes,Lecturer,156.7,57.3,26,No,More than 8 hours,No,Rarely / Never,None,Yes,No,No
+11/02/2026 19:58:51,48,Male,South asian,Yes,Software Engineer,164.1,69.1,32,Yes,4–8 hours,Yes,Daily,None,Yes,No,Yes
+11/02/2026 16:36:30,34,Male,South asian,Yes,Banker,167.5,40.1,18,No,4–8 hours,No,Daily,1 to 2 cups,No,Yes,No
+10/02/2026 09:28:26,33,Female,South asian,Yes,IT Support,163.6,60.8,29,No,4–8 hours,No,Rarely / Never,1 to 2 cups,No,No,Yes
+11/02/2026 09:06:08,57,Female,South asian,Yes,Software Engineer,165.8,62.4,29,Yes,4–8 hours,No,twice or thrice a week,More than 3,Yes,No,Yes
+11/02/2026 08:34:29,51,Female,South asian,Yes,Consultant,156.7,33.0,17,Yes,4–8 hours,No,Daily,More than 3,Yes,No,No
+10/02/2026 16:13:45,37,Male,South asian,Yes,Clerk,153.1,62.6,29,Yes,4–8 hours,Yes,twice or thrice a week,More than 3,No,No,No
+10/02/2026 21:08:53,45,Female,South asian,Yes,Project Manager,164.2,66.1,30,No,More than 8 hours,Yes,twice or thrice a week,1 to 2 cups,No,No,No
+10/02/2026 22:26:42,31,Male,South asian,Yes,Data Scientist,183.6,83.2,36,No,Less than 4 hours,Yes,Daily,More than 3,No,No,No
+10/02/2026 06:30:19,46,Male,South asian,Yes,Clerk,175.8,77.3,33,Yes,Less than 4 hours,No,Rarely / Never,1 to 2 cups,No,No,No
+11/02/2026 05:06:12,35,Male,South asian,Yes,Data Scientist,176.1,76.5,33,No,Less than 4 hours,No,twice or thrice a week,1 to 2 cups,Yes,No,No
+11/02/2026 09:13:06,58,Female,South asian,Yes,Consultant,156.9,55.6,24,No,4–8 hours,Yes,twice or thrice a week,1 to 2 cups,Yes,No,No
+10/02/2026 20:06:09,42,Male,South asian,Yes,Clerk,179.6,56.8,26,No,4–8 hours,No,Rarely / Never,1 to 2 cups,No,No,No
+11/02/2026 06:17:03,40,Male,South asian,Yes,IT Support,169.4,54.6,23,No,4–8 hours,No,Daily,1 to 2 cups,Yes,Yes,Yes
+10/02/2026 21:03:44,57,Male,South asian,Yes,Lecturer,175.8,74.9,30,No,4–8 hours,Yes,twice or thrice a week,More than 3,Yes,No,Yes
+10/02/2026 20:42:12,52,Female,South asian,Yes,Software Engineer,149.9,39.5,19,No,4–8 hours,No,twice or thrice a week,1 to 2 cups,Yes,No,Yes
+11/02/2026 16:48:11,55,Female,South asian,Yes,HR Specialist,158.9,65.5,30,Yes,Less than 4 hours,Yes,Daily,1 to 2 cups,Yes,No,Yes
+11/02/2026 11:59:51,50,Male,South asian,Yes,Business Analyst,175.5,70.3,34,No,4–8 hours,No,twice or thrice a week,1 to 2 cups,No,Yes,Yes
+10/02/2026 02:03:46,33,Male,South asian,Yes,Manager,167.2,38.0,18,No,4–8 hours,No,Daily,More than 3,Yes,No,No
+11/02/2026 12:16:33,53,Male,South asian,Yes,Business Analyst,174.8,42.1,18,Yes,4–8 hours,No,Rarely / Never,1 to 2 cups,No,No,No
+10/02/2026 15:45:14,52,Female,South asian,Yes,Banker,151.9,63.3,29,Yes,4–8 hours,No,Rarely / Never,None,No,No,No
+11/02/2026 19:06:40,46,Male,South asian,Yes,HR Specialist,164.2,70.3,32,No,4–8 hours,Yes,Daily,1 to 2 cups,No,No,Yes
+10/02/2026 16:46:00,30,Female,South asian,Yes,Project Manager,166.4,65.9,30,Yes,4–8 hours,Yes,Rarely / Never,1 to 2 cups,Yes,No,No
+11/02/2026 04:31:35,31,Female,South asian,Yes,Systems Analyst,150.2,43.1,22,No,4–8 hours,No,twice or thrice a week,More than 3,No,No,Yes
+11/02/2026 09:19:27,49,Male,South asian,Yes,Consultant,176.6,55.9,24,No,More than 8 hours,No,twice or thrice a week,1 to 2 cups,No,No,Yes
+11/02/2026 21:17:55,59,Female,South asian,Yes,Clerk,160.5,58.7,27,Yes,More than 8 hours,No,twice or thrice a week,1 to 2 cups,No,No,No
+11/02/2026 13:28:37,48,Male,South asian,Yes,IT Support,177.1,70.4,33,Yes,4–8 hours,No,Rarely / Never,1 to 2 cups,No,No,Yes
+10/02/2026 12:04:00,30,Male,South asian,Yes,IT Support,178.7,61.8,28,No,4–8 hours,No,Daily,More than 3,No,No,No
+10/02/2026 16:51:55,38,Female,South asian,Yes,HR Specialist,157.8,57.5,24,No,More than 8 hours,No,twice or thrice a week,1 to 2 cups,Yes,Yes,No
+10/02/2026 15:15:25,45,Female,South asian,Yes,HR Specialist,153.1,60.3,24,No,4–8 hours,No,Daily,1 to 2 cups,Yes,No,No
+11/02/2026 06:48:59,51,Female,South asian,Yes,Data Scientist,160.1,44.5,24,No,More than 8 hours,Yes,twice or thrice a week,1 to 2 cups,Yes,No,No
+11/02/2026 08:22:00,56,Female,South asian,Yes,IT Support,149.3,66.3,30,Yes,Less than 4 hours,No,Rarely / Never,1 to 2 cups,No,No,No
+10/02/2026 14:25:03,35,Female,South asian,Yes,Civil Engineer,155.0,74.0,33,Yes,More than 8 hours,Yes,Rarely / Never,More than 3,No,No,Yes
+10/02/2026 08:50:50,48,Female,South asian,Yes,Civil Engineer,169.8,75.4,31,No,More than 8 hours,Yes,Rarely / Never,1 to 2 cups,Yes,Yes,Yes
+11/02/2026 17:07:56,31,Male,South asian,Yes,Assistant Manager,174.5,81.4,39,No,4–8 hours,No,Rarely / Never,More than 3,No,No,Yes
+11/02/2026 21:42:16,43,Male,South asian,Yes,Senior Executive,176.1,85.4,36,Yes,Less than 4 hours,No,Daily,1 to 2 cups,Yes,No,No
+11/02/2026 14:57:21,53,Female,South asian,Yes,Accountant,158.2,46.7,22,No,4–8 hours,No,Rarely / Never,1 to 2 cups,No,No,No
+11/02/2026 04:36:31,54,Male,South asian,Yes,Administrator,169.9,61.3,26,Yes,4–8 hours,Yes,twice or thrice a week,1 to 2 cups,No,No,No
+10/02/2026 19:33:09,49,Male,South asian,Yes,Project Manager,180.1,64.8,29,No,More than 8 hours,No,twice or thrice a week,More than 3,No,No,No
+10/02/2026 03:39:26,34,Male,South asian,Yes,HR Specialist,160.1,53.5,22,Yes,More than 8 hours,No,Daily,More than 3,No,No,No
+10/02/2026 22:06:19,59,Male,South asian,Yes,Systems Analyst,162.4,68.3,28,Yes,More than 8 hours,Yes,twice or thrice a week,1 to 2 cups,Yes,No,No
+10/02/2026 21:47:29,47,Male,South asian,Yes,Software Engineer,163.1,44.9,25,No,More than 8 hours,Yes,twice or thrice a week,1 to 2 cups,Yes,Yes,Yes
+11/02/2026 19:16:03,51,Male,South asian,Yes,Marketing Executive,172.4,70.9,32,No,More than 8 hours,No,twice or thrice a week,More than 3,Yes,No,Yes
+10/02/2026 22:19:27,30,Female,South asian,Yes,IT Support,158.8,63.6,30,No,Less than 4 hours,No,twice or thrice a week,More than 3,No,No,No
+11/02/2026 01:51:09,30,Male,South asian,Yes,Civil Engineer,169.9,74.1,34,No,More than 8 hours,Yes,Daily,More than 3,No,No,No
+11/02/2026 19:16:55,58,Female,South asian,Yes,IT Support,155.9,55.7,25,No,4–8 hours,No,twice or thrice a week,1 to 2 cups,No,Yes,Yes
+11/02/2026 09:50:32,31,Male,South asian,Yes,Senior Executive,157.3,67.8,25,No,4–8 hours,No,twice or thrice a week,1 to 2 cups,No,No,No
+10/02/2026 06:33:59,56,Male,South asian,Yes,Manager,165.6,52.8,22,No,More than 8 hours,No,Daily,1 to 2 cups,Yes,No,Yes
+11/02/2026 12:16:03,57,Female,South asian,Yes,Accountant,156.9,61.7,30,Yes,More than 8 hours,No,Daily,More than 3,No,No,Yes
+10/02/2026 11:32:03,34,Male,South asian,Yes,Clerk,165.0,71.1,32,No,Less than 4 hours,No,Daily,More than 3,No,No,No
+11/02/2026 18:58:41,39,Male,South asian,Yes,Business Analyst,169.2,59.5,30,Yes,More than 8 hours,No,Rarely / Never,More than 3,No,No,No
+11/02/2026 05:57:28,47,Male,South asian,Yes,Assistant Manager,169.4,75.1,36,No,More than 8 hours,Yes,Daily,More than 3,No,No,No
+10/02/2026 02:34:54,36,Male,South asian,Yes,Administrator,186.9,92.4,41,No,Less than 4 hours,No,Daily,More than 3,Yes,Yes,Yes
+10/02/2026 03:00:56,51,Male,South asian,Yes,Manager,173.1,85.2,38,No,4–8 hours,No,Daily,1 to 2 cups,No,Yes,Yes
+11/02/2026 17:52:02,30,Female,South asian,Yes,Senior Executive,160.8,74.1,31,No,More than 8 hours,No,twice or thrice a week,1 to 2 cups,Yes,Yes,Yes
+11/02/2026 10:24:36,56,Female,South asian,Yes,Lecturer,151.8,65.6,29,Yes,Less than 4 hours,No,twice or thrice a week,1 to 2 cups,Yes,No,No
+11/02/2026 04:13:31,31,Female,South asian,Yes,Lecturer,151.3,70.1,35,No,4–8 hours,No,Daily,More than 3,No,No,Yes
+10/02/2026 05:26:55,51,Female,South asian,Yes,Senior Executive,154.4,58.4,30,No,4–8 hours,No,twice or thrice a week,1 to 2 cups,No,No,No
+11/02/2026 05:11:40,39,Female,South asian,Yes,Software Engineer,155.0,69.5,34,Yes,More than 8 hours,No,Daily,More than 3,Yes,Yes,Yes
+10/02/2026 08:16:30,52,Male,South asian,Yes,Data Scientist,172.9,77.3,34,No,4–8 hours,Yes,Daily,1 to 2 cups,No,No,No
+11/02/2026 12:07:25,37,Female,South asian,Yes,Marketing Executive,161.3,64.6,30,Yes,More than 8 hours,No,Daily,None,No,No,No
+10/02/2026 11:42:37,60,Male,South asian,Yes,Banker,171.8,80.5,35,No,4–8 hours,No,twice or thrice a week,None,No,No,No
+11/02/2026 19:49:52,48,Female,South asian,Yes,Accountant,160.7,60.2,24,Yes,4–8 hours,Yes,twice or thrice a week,None,No,No,No
+10/02/2026 16:23:13,53,Male,South asian,Yes,Lecturer,161.6,51.8,25,Yes,More than 8 hours,Yes,twice or thrice a week,More than 3,Yes,No,No
+10/02/2026 09:45:03,60,Male,South asian,Yes,Accountant,167.5,73.3,34,No,4–8 hours,No,Daily,1 to 2 cups,Yes,Yes,Yes
+11/02/2026 14:29:55,52,Male,South asian,Yes,HR Specialist,161.7,38.5,19,No,More than 8 hours,No,Daily,More than 3,No,No,Yes
+10/02/2026 22:39:07,56,Male,South asian,Yes,Business Analyst,181.5,78.4,38,No,More than 8 hours,No,Rarely / Never,1 to 2 cups,Yes,No,Yes
+11/02/2026 02:27:05,59,Female,South asian,Yes,Business Analyst,169.4,87.5,43,Yes,More than 8 hours,No,Daily,1 to 2 cups,No,Yes,Yes
+11/02/2026 16:39:59,57,Male,South asian,Yes,Accountant,168.9,70.9,33,No,More than 8 hours,No,Daily,1 to 2 cups,No,No,Yes
+10/02/2026 23:28:29,56,Female,South asian,Yes,Banker,161.1,52.1,22,Yes,4–8 hours,Yes,Rarely / Never,More than 3,No,No,Yes
+11/02/2026 12:13:07,30,Female,South asian,Yes,Business Analyst,153.9,56.6,23,No,4–8 hours,Yes,twice or thrice a week,1 to 2 cups,No,No,No
+11/02/2026 10:37:36,54,Female,South asian,Yes,Accountant,158.5,76.5,34,Yes,More than 8 hours,No,Daily,More than 3,Yes,No,Yes
+10/02/2026 15:46:01,44,Female,South asian,Yes,HR Specialist,159.0,56.3,26,Yes,More than 8 hours,No,Rarely / Never,More than 3,No,Yes,No
+10/02/2026 07:46:06,41,Female,South asian,Yes,Consultant,159.3,65.8,27,Yes,More than 8 hours,No,twice or thrice a week,1 to 2 cups,No,No,No
+10/02/2026 02:20:21,51,Male,South asian,Yes,Banker,173.2,66.8,36,Yes,4–8 hours,Yes,twice or thrice a week,1 to 2 cups,Yes,No,No
+11/02/2026 23:00:47,35,Female,South asian,Yes,Senior Executive,163.2,48.0,22,No,4–8 hours,No,Daily,1 to 2 cups,Yes,No,No
+11/02/2026 16:07:44,57,Male,South asian,Yes,Marketing Executive,187.7,96.5,41,Yes,Less than 4 hours,No,Rarely / Never,None,No,Yes,Yes
+10/02/2026 00:31:12,44,Male,South asian,Yes,Clerk,163.8,50.9,28,Yes,4–8 hours,No,Daily,1 to 2 cups,Yes,No,Yes
+11/02/2026 13:46:28,56,Male,South asian,Yes,Data Scientist,169.3,81.5,36,Yes,More than 8 hours,No,twice or thrice a week,More than 3,Yes,No,Yes
+11/02/2026 17:03:19,51,Male,South asian,Yes,Manager,164.1,44.3,24,No,4–8 hours,No,twice or thrice a week,1 to 2 cups,Yes,No,No
+11/02/2026 08:13:43,45,Male,South asian,Yes,Project Manager,182.0,67.4,30,No,More than 8 hours,No,Daily,None,Yes,No,No
+10/02/2026 09:44:46,55,Female,South asian,Yes,Banker,167.1,73.7,33,No,4–8 hours,Yes,Daily,1 to 2 cups,No,No,No
+11/02/2026 18:24:51,38,Male,South asian,Yes,Data Scientist,168.5,68.4,29,Yes,Less than 4 hours,No,twice or thrice a week,More than 3,No,No,Yes
