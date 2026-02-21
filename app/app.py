@@ -2,11 +2,12 @@ import streamlit as st
 import pickle
 import pandas as pd
 import os
+from fpdf import FPDF
+import datetime
 
-# 1. Page Configuration
 st.set_page_config(page_title="South Asian Diabetes Risk Predictor", layout="centered")
 
-# --- ROBUST PATH LOGIC ---
+
 current_dir = os.path.dirname(os.path.abspath(__file__))
 root_dir = os.path.dirname(current_dir)
 model_path = os.path.join(root_dir, 'models', 'random_forest_model.pkl')
@@ -18,13 +19,47 @@ def load_model():
             return pickle.load(f)
     return None
 
-model = load_model()
+# create report method 
+def generate_pdf(name, result, probability, bmi, whtr, age, gender):
+    pdf = FPDF()
+    pdf.add_page()
+    
+    pdf.set_font("Arial", 'B', 16)
+    pdf.cell(200, 10, "Diabetes Risk Assessment Report", ln=True, align='C')
+    pdf.set_font("Arial", size=12)
+    pdf.cell(200, 10, f"Date: {datetime.date.today()}", ln=True, align='C')
+    pdf.ln(10)
 
-# --- SIDEBAR NAVIGATION ---
+    pdf.set_font("Arial", 'B', 12)
+    pdf.cell(0, 10, "User Profile Summary:", ln=True)
+    pdf.set_font("Arial", size=12)
+    pdf.cell(0, 10, f"Age: {age} | Gender: {gender}", ln=True)
+    pdf.cell(0, 10, f"Calculated BMI: {bmi:.1f}", ln=True)
+    pdf.cell(0, 10, f"Waist-to-Height Ratio (WHtR): {whtr:.2f}", ln=True)
+    pdf.ln(5)
+
+    pdf.set_draw_color(200, 0, 0)
+    pdf.set_line_width(1)
+    pdf.rect(10, pdf.get_y(), 190, 30)
+    
+    pdf.set_font("Arial", 'B', 14)
+    color = (255, 0, 0) if result == "High Risk" else (0, 128, 0)
+    # pdf.set_text_color(*color)
+    # pdf.cell(0, 15, f"AI PREDICTION: {result}", ln=True, align='C')
+    pdf.set_text_color(0, 0, 0)
+    pdf.set_font("Arial", size=12)
+    pdf.cell(0, 10, f"Risk Probability: {probability:.1%}", ln=True, align='C')
+    pdf.ln(15)
+
+    pdf.set_font("Arial", 'I', 10)
+    pdf.multi_cell(0, 10, "Note: This assessment is based on a Random Forest Machine Learning model targeting the Sri Lankan 'Thin-Fat' phenotype. This is a screening tool, not a clinical diagnosis.")
+    
+    return pdf.output(dest='S').encode('latin-1')
+
+model = load_model()
 st.sidebar.title("Navigation")
 page = st.sidebar.radio("Go to:", ["Screening Tool", "AI Research Analytics"])
 
-# --- PAGE 1: SCREENING TOOL ---
 if page == "Screening Tool":
     st.title("🩺 Diabetes Risk Screening Tool")
     st.subheader("Targeting the 'Thin-Fat' South Asian Phenotype")
@@ -47,7 +82,6 @@ if page == "Screening Tool":
         submit = st.form_submit_button("Analyze Risk Profile")
 
     if submit:
-        # Prediction Logic (Mapping)
         gender_enc = 1 if gender == "Male" else 0
         activity_enc = 1 if activity == "Yes" else 0
         sitting_map = {"Less than 4 hours": 0, "4–8 hours": 1, "More than 8 hours": 2}
@@ -70,7 +104,20 @@ if page == "Screening Tool":
         st.info(f"**Metrics:** BMI: {bmi:.1f} | WHtR: {whtr:.2f}")
         st.write("👈 Use the sidebar to see the **AI Research Analytics** for this model.")
 
-# --- PAGE 2: RESEARCH ANALYTICS ---
+    # report download button
+        st.divider()
+        st.subheader("📥 Export Results")
+        
+        pdf_data = generate_pdf("User", prediction[0], probability, bmi, whtr, age, gender)
+        
+        st.download_button(
+            label="Download PDF Report",
+            data=pdf_data,
+            file_name=f"Diabetes_Risk_Report_{datetime.date.today()}.pdf",
+            mime="application/pdf"
+        )
+
+#Page 2: Research Analytics
 elif page == "AI Research Analytics":
     st.title("📊 AI Model Research Analytics")
     st.write("This page explains the quantitative logic behind the Random Forest model.")
@@ -79,7 +126,6 @@ elif page == "AI Research Analytics":
     st.subheader("Feature Importance (Variable Weighting)")
     st.write("According to the trained model, these are the factors that most heavily influence a Diabetes Risk prediction in South Asian professionals.")
 
-    # Get feature importance
     importances = model.feature_importances_
     feature_names = ['Age', 'Gender', 'BMI', 'Waist (cm)', 'WHtR', 'Sitting Hours', 'Physical Activity']
     
@@ -88,7 +134,6 @@ elif page == "AI Research Analytics":
         'Importance Weight': importances
     }).sort_values(by='Importance Weight', ascending=True)
 
-    # Display Bar Chart
     st.bar_chart(data=importance_df, x='Factor', y='Importance Weight', horizontal=True)
 
     
@@ -97,3 +142,4 @@ elif page == "AI Research Analytics":
     **Research Insight:** Note how **WHtR** and **Sitting Hours** often rank higher than BMI. 
     This supports the 'Thin-Fat' phenotype theory where central adiposity is a better predictor than total body weight.
     """)
+
